@@ -7,4 +7,3 @@ Upcounter0_9999 using Verilog
 
 Reset 버튼을 누르면 0으로 초기화가 된다.
 ![KakaoTalk_20221023_202903586_04](https://user-images.githubusercontent.com/102197947/197389669-9b99c48f-50e5-4ffa-8492-ef96090839c5.jpg)
-![KakaoTalk_20221023_202903586](https://user-images.githubusercontent.com/102197947/197389673-c1bd2b18-3723-45ec-ab69-56f28432d7af.jpg)
