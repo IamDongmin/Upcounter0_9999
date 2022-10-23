@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 23 20:14:28 2022
+# Process ID: 24756
+# Current directory: D:/portfolio/Upcounter0_9999/Upcounter0_9999.runs/impl_1
+# Command line: vivado.exe -log top_upcounter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_upcounter.tcl -notrace
+# Log file: D:/portfolio/Upcounter0_9999/Upcounter0_9999.runs/impl_1/top_upcounter.vdi
+# Journal file: D:/portfolio/Upcounter0_9999/Upcounter0_9999.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top_upcounter.tcl -notrace
